@@ -10,3 +10,5 @@ npm run dev
 
 Build the project
 npm run build
+
+Recomended Browser Chrome
